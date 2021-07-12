@@ -110,7 +110,7 @@ object Dependencies {
       const val navigation = "2.3.4"
       const val recyclerView = "1.1.0"
       const val room = "2.3.0"
-      const val workRuntimeKtx = "2.5.0"
+      const val workRuntimeKtx = "2.7.0-alpha04"
     }
 
     object Cql {
